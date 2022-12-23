@@ -1,0 +1,6 @@
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/bin/Debug/CavaCipherChallenge.exe
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/bin/Debug/CavaCipherChallenge.pdb
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/obj/Debug/CavaCipherChallenge.csproj.AssemblyReference.cache
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/obj/Debug/CavaCipherChallenge.csproj.CoreCompileInputs.cache
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/obj/Debug/CavaCipherChallenge.exe
+/home/cava/RiderProjects/CavaCipherChallenge/CavaCipherChallenge/obj/Debug/CavaCipherChallenge.pdb
